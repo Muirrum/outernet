@@ -43,6 +43,8 @@ Here's a list of guilds already in the works:
 
 **:man_dancing: Dance Off ([#outernet-dance-off](https://hackclub.slack.com/archives/C0594PHJ3PT))**: We will host a midnight dance parties along with karaoke. We will need speakers, a projector, a projector screen, a microphone, and maybe fancy lights.
 
+**📻 Outernet Radio (W2H) ([#outernet-radio](https://hackclub.slack.com/archives/C058XFV7MCK))**: We will set up an amateur radio station under the special event callsign W2H, and operate throughout the weekend. 
+
 You're welcome to get involved with one of them on Slack or start your own guild with friends!
 
 ## How can I start a guild?
